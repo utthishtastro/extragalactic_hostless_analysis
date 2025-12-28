@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 plt.rcParams.update({
-    'font.size': 16,
+    'font.size': 20,
     'axes.titlesize': 18,
     'axes.labelsize': 16,
     'xtick.labelsize': 14,
@@ -11,48 +11,61 @@ plt.rcParams.update({
     'legend.fontsize': 14
 })
 
-df = pd.read_csv("data/candidates_tns_info.csv")
-
-plt.figure(figsize=(12, 7))
-df['tns_classification_mapped'].value_counts().sort_values().plot(
-    kind='barh'
-)
-
-plt.title("Distribution of transient classes")
-plt.xlabel("Count")
-plt.ylabel("Transient class")
-plt.tight_layout()
-
-plt.savefig("plots/class_distribution.pdf", bbox_inches="tight")
-plt.savefig("plots/class_distribution.png", dpi=300, bbox_inches="tight")
-plt.show()
-
+df = pd.read_csv("data/candidates_tns_without_asteroids.csv")
 
 df_plot = df.dropna(subset=['tns_classification_mapped', 'tns_redshift'])
 
+# Keep classes with at least N counts
 N = 1
 counts = df_plot['tns_classification_mapped'].value_counts()
 classes_to_keep = counts[counts >= N].index
 df_plot = df_plot[df_plot['tns_classification_mapped'].isin(classes_to_keep)]
 
-plt.figure(figsize=(12, 7))
+class_order = (
+    df_plot.groupby('tns_classification_mapped')['tns_redshift']
+    .median()
+    .sort_values()
+    .index
+)
+
+
+counts_ordered = (
+    df_plot['tns_classification_mapped']
+    .value_counts()
+    .reindex(class_order)
+)
+
+fig, (ax1, ax2) = plt.subplots(
+    1, 2,
+    figsize=(16, 7),
+    sharey=True,
+    gridspec_kw={'width_ratios': [1, 2]}
+)
+
+
+ax1.barh(class_order, counts_ordered)
+ax1.set_title("Class distribution")
+ax1.set_xlabel("Count")
+ax1.set_ylabel("Transient class")
+ax1.margins(y=0)
+
+
 sns.stripplot(
     x='tns_redshift',
     y='tns_classification_mapped',
     data=df_plot,
+    order=class_order,
     jitter=False,
     alpha=1,
-    order=df_plot.groupby('tns_classification_mapped')['tns_redshift']
-                .median()
-                .sort_values()
-                .index
+    ax=ax2
 )
 
-plt.title("Redshift vs transient class")
-plt.xlabel("Redshift")
-plt.ylabel("Transient class")
-plt.tight_layout()
+ax2.set_title("Redshift vs class")
+ax2.set_xlabel("Redshift")
+ax2.set_ylabel("")
+ax2.tick_params(labelleft=False)
+ax2.margins(y=0)
 
-plt.savefig("plots/redshift_vs_class.pdf", bbox_inches="tight")
-plt.savefig("plots/redshift_vs_class.png", dpi=300, bbox_inches="tight")
+plt.savefig("plots/class_distribution_and_redshift.pdf", bbox_inches="tight")
+plt.savefig("plots/class_distribution_and_redshift.png", dpi=300, bbox_inches="tight")
 plt.show()
