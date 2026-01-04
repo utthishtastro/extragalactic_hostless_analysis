@@ -11,9 +11,9 @@ plt.rcParams.update({
     'legend.fontsize': 14
 })
 
-df = pd.read_csv("data/candidates_tns_without_asteroids.csv")
+df = pd.read_csv("data/candidates_tns_info.csv")
 
-df_plot = df.dropna(subset=['tns_classification_mapped', 'tns_redshift'])
+df_plot = df.dropna(subset=['tns_classification_mapped'])
 
 # Keep classes with at least N counts
 N = 1

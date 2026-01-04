@@ -2,9 +2,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-prost_results_file = "data/prost_crossmatching_results_without_asteroids.csv"
+prost_results_file = "data/prost_cross_match.csv"
 sherlock_results_file = "data/sherlock_cross_match.csv"
-candidates_file = "data/candidates_tns_without_asteroids.csv"
+candidates_file = "data/candidates_tns_info.csv"
 
 
 prost_df = pd.read_csv(prost_results_file, dtype=str)

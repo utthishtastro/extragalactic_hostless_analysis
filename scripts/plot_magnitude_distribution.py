@@ -5,7 +5,7 @@ import seaborn as sns
 
 
 sherlock_results_file = "data/sherlock_cross_match.csv"
-prost_results_file = "data/prost_crossmatching_results_without_asteroids.csv"
+prost_results_file = "data/prost_cross_match.csv"
 
 plots_dir = "plots"
 os.makedirs(plots_dir, exist_ok=True)
