@@ -63,7 +63,7 @@ ZTF25aaprtxj,SLSN-II,0.0875,2025jxk,238.8701885,44.40549547,SLSN-II,https://ztf.
 ZTF25aaixrfr,SLSN-II,0.127,2025eqe,240.2758758,-0.04388944545,SLSN-II,https://ztf.fink-portal.org/ZTF25aaixrfr,,,,,
 ZTF23abqygjv,SLSN-II,0.194,2023zeq,17.22581553,-20.64004747,SLSN-II,https://ztf.fink-portal.org/ZTF23abqygjv,,no,"https://www.legacysurvey.org/viewer?ra=17.22581552857143&dec=-20.64004747142857&layer=ls-dr10&photoz-dr9&zoom=16&mark=17.22581552857143,-20.64004747142857",yes,https://ps1images.stsci.edu/cgi-bin/ps1cutouts?pos=17.22581552857143+-20.64004747142857&filter=color&filetypes=stack&auxiliary=data&size=220&output_size=500&catlist=1&show_overlay=1&show_grid=1&show_ids=1
 ZTF24abvftmi,SLSN-II,0.32,2024adtg,133.3684884,-11.14072719,SLSN-II,https://ztf.fink-portal.org/ZTF24abvftmi,,,,,
-ZTF24aaruheu,SN,0.48,2024lnq,222.6822876,69.55455469,Ambiguous SN class,https://ztf.fink-portal.org/ZTF24aaruheu,,,,,
+ZTF24aaruheu,SN,0.48,2024lnq,222.6822876,69.55455469,SN ,https://ztf.fink-portal.org/ZTF24aaruheu,,,,,
 ZTF25aaktqzg,SN Ia,0.0061,2025fvw,233.8574449,12.05773073,SN Ia,https://ztf.fink-portal.org/ZTF25aaktqzg,,,,,
 ZTF24abbmixl,SN Ia,0.012129,2024pjl,67.05888326,-6.791171955,SN Ia,https://ztf.fink-portal.org/ZTF24abbmixl,,,,,
 ZTF24abxzhim,SN Ia,0.018413,2024aedt,27.89247777,8.251362924,SN Ia,https://ztf.fink-portal.org/ZTF24abxzhim,,,,,
@@ -237,15 +237,15 @@ ZTF24absyxrj,SN Ia-pec,0.02108,2024abli,172.7951808,34.21380814,SN Ia*,https://z
 ZTF23abshmtt,SN Ia-pec,0.109,2023zdy,125.7110523,21.17260912,SN Ia*,https://ztf.fink-portal.org/ZTF23abshmtt,,,,,
 ZTF25abqkwce,SN Ia-SC,0.04,2025xju,358.8111619,39.76371592,SN Ia*,https://ztf.fink-portal.org/ZTF25abqkwce,,not_available,"https://www.legacysurvey.org/viewer?ra=358.81116190779227&dec=39.76371591818182&layer=ls-dr10&photoz-dr9&zoom=16&mark=358.81116190779227,39.76371591818182",yes,https://ps1images.stsci.edu/cgi-bin/ps1cutouts?pos=358.81116190779227+39.76371591818182&filter=color&filetypes=stack&auxiliary=data&size=220&output_size=500&catlist=1&show_overlay=1&show_grid=1&show_ids=1
 ZTF24aagnlaw,SN Ia-SC,0.13,2024dvi,160.0097931,61.84385537,SN Ia*,https://ztf.fink-portal.org/ZTF24aagnlaw,,yes,"https://www.legacysurvey.org/viewer?ra=160.00979308888884&dec=61.84385537222223&layer=ls-dr10&photoz-dr9&zoom=16&mark=160.00979308888884,61.84385537222223",yes,https://ps1images.stsci.edu/cgi-bin/ps1cutouts?pos=160.00979308888884+61.84385537222223&filter=color&filetypes=stack&auxiliary=data&size=220&output_size=500&catlist=1&show_overlay=1&show_grid=1&show_ids=1
-ZTF25aahsvoc,SN Ib-Ca-rich,0.00472,2025coe,158.2830058,28.43680533,SN Ib-Ca-rich,https://ztf.fink-portal.org/ZTF25aahsvoc,,,,,
+ZTF25aahsvoc,SN Ib-Ca-rich,0.00472,2025coe,158.2830058,28.43680533,SN Ibc*,https://ztf.fink-portal.org/ZTF25aahsvoc,,,,,
 ZTF25acgdfwz,SN Ib/c,0.018,2025agik,23.67907885,36.96421261,SN Ibc*,https://ztf.fink-portal.org/ZTF25acgdfwz,,not_available,"https://www.legacysurvey.org/viewer?ra=23.679078847826087&dec=36.964212608695654&layer=ls-dr10&photoz-dr9&zoom=16&mark=23.679078847826087,36.964212608695654",yes,https://ps1images.stsci.edu/cgi-bin/ps1cutouts?pos=23.679078847826087+36.964212608695654&filter=color&filetypes=stack&auxiliary=data&size=220&output_size=500&catlist=1&show_overlay=1&show_grid=1&show_ids=1
-ZTF25aaompnz,SN Ibn,0.06,2025imp,225.6426296,34.88395779,SN Ibn,https://ztf.fink-portal.org/ZTF25aaompnz,,,,,
-ZTF24aaxdooe,SN Ic-BL,0.03,2024pxk,39.94384899,-13.02265935,SN Ic-BL,https://ztf.fink-portal.org/ZTF24aaxdooe,,,,,
-ZTF25acfzcip,SN Ic-BL,0.05,2025afto,46.01169538,-13.01534156,SN Ic-BL,https://ztf.fink-portal.org/ZTF25acfzcip,,,,,
-ZTF25aausnjn,SN Ic-BL,0.09,2025mkc,288.9317483,64.58780486,SN Ic-BL,https://ztf.fink-portal.org/ZTF25aausnjn,,,,,
-ZTF23abochfb,SN Ic-BL,0.15,2023wtq,20.48199616,-3.772209727,SN Ic-BL,https://ztf.fink-portal.org/ZTF23abochfb,,,,,
-ZTF24abygyka,SN Ic-BL,0.2,2024aeiw,114.8781115,-1.47839332,SN Ic-BL,https://ztf.fink-portal.org/ZTF24abygyka,,,,,
-ZTF25abmtiec,SN Ic-BL,0.3,2025wfz,350.0194743,16.28414779,SN Ic-BL,https://ztf.fink-portal.org/ZTF25abmtiec,,,,,
+ZTF25aaompnz,SN Ibn,0.06,2025imp,225.6426296,34.88395779,SN Ibc*,https://ztf.fink-portal.org/ZTF25aaompnz,,,,,
+ZTF24aaxdooe,SN Ic-BL,0.03,2024pxk,39.94384899,-13.02265935,SN Ibc*,https://ztf.fink-portal.org/ZTF24aaxdooe,,,,,
+ZTF25acfzcip,SN Ic-BL,0.05,2025afto,46.01169538,-13.01534156,SN Ibc*,https://ztf.fink-portal.org/ZTF25acfzcip,,,,,
+ZTF25aausnjn,SN Ic-BL,0.09,2025mkc,288.9317483,64.58780486,SN Ibc*,https://ztf.fink-portal.org/ZTF25aausnjn,,,,,
+ZTF23abochfb,SN Ic-BL,0.15,2023wtq,20.48199616,-3.772209727,SN Ibc*,https://ztf.fink-portal.org/ZTF23abochfb,,,,,
+ZTF24abygyka,SN Ic-BL,0.2,2024aeiw,114.8781115,-1.47839332,SN Ibc*,https://ztf.fink-portal.org/ZTF24abygyka,,,,,
+ZTF25abmtiec,SN Ic-BL,0.3,2025wfz,350.0194743,16.28414779,SN Ibc*,https://ztf.fink-portal.org/ZTF25abmtiec,,,,,
 ZTF25aaadqsi,SN II,0.0085,2025bl,117.2287688,85.76259578,SN II,https://ztf.fink-portal.org/ZTF25aaadqsi,,,,,
 ZTF25absjpon,SN II,0.01,2025xdn,91.25440313,-14.10412619,SN II,https://ztf.fink-portal.org/ZTF25absjpon,,,,,
 ZTF25acegczg,SN II,0.012,2025aedz,87.69428508,58.91478183,SN II,https://ztf.fink-portal.org/ZTF25acegczg,,,,,
