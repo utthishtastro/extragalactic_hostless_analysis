@@ -290,7 +290,7 @@ ZTF24aahttlx,,,2024ffv,69.5537858,67.51629068,,https://ztf.fink-portal.org/ZTF24
 ZTF24aahrjsx,,,2024exe,74.7969002,28.59607367,,https://ztf.fink-portal.org/ZTF24aahrjsx,,,,,
 ZTF25acgbcph,,,2025afsx,127.5837151,-4.104347275,,https://ztf.fink-portal.org/ZTF25acgbcph,,,,,
 ZTF24abluyzf,,,2024wqx,276.9773405,16.75734456,,https://ztf.fink-portal.org/ZTF24abluyzf,,,,,
-ZTF24abcvapx,,,2024tdc,68.76454578,86.94030261,,https://ztf.fink-portal.org/ZTF24abcvapx,,not_available,"https://www.legacysurvey.org/viewer?ra=68.764545775&dec=86.94030260624999&layer=ls-dr10&photoz-dr9&zoom=16&mark=68.764545775,86.94030260624999",yes,https://ps1images.stsci.edu/cgi-bin/ps1cutouts?pos=68.764545775+86.94030260624999&filter=color&filetypes=stack&auxiliary=data&size=220&output_size=500&catlist=1&show_overlay=1&show_grid=1&show_ids=1
+ZTF24abcvapx,,,2024tdc,68.76454578,86.94030261,,https://ztf.fink-portal.org/ZTF24abcvapx,yes,not_available,"https://www.legacysurvey.org/viewer?ra=68.764545775&dec=86.94030260624999&layer=ls-dr10&photoz-dr9&zoom=16&mark=68.764545775,86.94030260624999",yes,https://ps1images.stsci.edu/cgi-bin/ps1cutouts?pos=68.764545775+86.94030260624999&filter=color&filetypes=stack&auxiliary=data&size=220&output_size=500&catlist=1&show_overlay=1&show_grid=1&show_ids=1
 ZTF24aahkzvn,,,2024eus,323.8082894,23.41926419,,https://ztf.fink-portal.org/ZTF24aahkzvn,,,,,
 ZTF25aacicqp,,,2016evx,269.1128046,10.4305154,,https://ztf.fink-portal.org/ZTF25aacicqp,,,,,
 ZTF23aazmlht,,,2023skm,299.6510996,53.59825764,,https://ztf.fink-portal.org/ZTF23aazmlht,,,,,
@@ -803,7 +803,7 @@ ZTF23abhrhmc,,,2023ufb,10.20207183,-20.51386847,,https://ztf.fink-portal.org/ZTF
 ZTF23abscsod,,,2023zyi,134.3171139,37.07084982,,https://ztf.fink-portal.org/ZTF23abscsod,,,,,
 ZTF23abrygca,,,2023zod,339.4490367,52.2894399,,https://ztf.fink-portal.org/ZTF23abrygca,,,,,
 ZTF23aboixbz,,,2023xmn,173.2829339,-7.6568672,,https://ztf.fink-portal.org/ZTF23aboixbz,,,,,
-ZTF23aboqpgn,,,2023xet,32.99998019,49.42916083,,https://ztf.fink-portal.org/ZTF23aboqpgn,,not_available,"https://www.legacysurvey.org/viewer?ra=32.999980185714286&dec=49.429160828571426&layer=ls-dr10&photoz-dr9&zoom=16&mark=32.999980185714286,49.429160828571426",yes,https://ps1images.stsci.edu/cgi-bin/ps1cutouts?pos=32.999980185714286+49.429160828571426&filter=color&filetypes=stack&auxiliary=data&size=220&output_size=500&catlist=1&show_overlay=1&show_grid=1&show_ids=1
+ZTF23aboqpgn,,,2023xet,32.99998019,49.42916083,,https://ztf.fink-portal.org/ZTF23aboqpgn,yes,not_available,"https://www.legacysurvey.org/viewer?ra=32.999980185714286&dec=49.429160828571426&layer=ls-dr10&photoz-dr9&zoom=16&mark=32.999980185714286,49.429160828571426",yes,https://ps1images.stsci.edu/cgi-bin/ps1cutouts?pos=32.999980185714286+49.429160828571426&filter=color&filetypes=stack&auxiliary=data&size=220&output_size=500&catlist=1&show_overlay=1&show_grid=1&show_ids=1
 ZTF23abcitsv,,,2023skk,20.99901518,21.68553253,,https://ztf.fink-portal.org/ZTF23abcitsv,,yes,"https://www.legacysurvey.org/viewer?ra=20.99901518125&dec=21.68553253125&layer=ls-dr10&photoz-dr9&zoom=16&mark=20.99901518125,21.68553253125",yes,https://ps1images.stsci.edu/cgi-bin/ps1cutouts?pos=20.99901518125+21.68553253125&filter=color&filetypes=stack&auxiliary=data&size=220&output_size=500&catlist=1&show_overlay=1&show_grid=1&show_ids=1
 ZTF23abaaxln,,,2023rjg,353.3947759,50.69336579,,https://ztf.fink-portal.org/ZTF23abaaxln,,,,,
 ZTF23abihpqf,,,2023adps,57.51377975,38.0425184,,https://ztf.fink-portal.org/ZTF23abihpqf,,,,,
