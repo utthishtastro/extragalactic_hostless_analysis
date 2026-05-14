@@ -1,0 +1,66 @@
+objectId,tns_classification,tns_redshift,tns_name,ra,dec,tns_classification_mapped,Fink URL
+ZTF25abyrwhz,SLSN-I,0.124,2025abmf,139.0503893,49.06484862,SLSN-I,https://ztf.fink-portal.org/ZTF25abyrwhz
+ZTF23aboebgh,SLSN-I,0.15,2023wml,174.7862245,-11.2494244,SLSN-I,https://ztf.fink-portal.org/ZTF23aboebgh
+ZTF25accmopr,SLSN-I,0.307,2025afad,134.2946835,-15.55973791,SLSN-I,https://ztf.fink-portal.org/ZTF25accmopr
+ZTF25aaofttb,SLSN-I,0.58,2025kkb,197.9062537,10.33311678,SLSN-I,https://ztf.fink-portal.org/ZTF25aaofttb
+ZTF25aafwxov,SN Ia,0.023,2025byq,108.1129255,50.29325824,SN Ia,https://ztf.fink-portal.org/ZTF25aafwxov
+ZTF23abndxzj,SN Ia,0.042,2023vxt,352.9764272,72.84651467,SN Ia,https://ztf.fink-portal.org/ZTF23abndxzj
+ZTF25acdceqb,SN Ia,0.05,2025acsj,173.4831894,49.38396689,SN Ia,https://ztf.fink-portal.org/ZTF25acdceqb
+ZTF24aaofopg,SN Ia,0.068,2024jdf,255.3433299,78.8526419,SN Ia,https://ztf.fink-portal.org/ZTF24aaofopg
+ZTF23abaslfm,SN Ia,0.069,2023rbt,26.63096426,11.86536667,SN Ia,https://ztf.fink-portal.org/ZTF23abaslfm
+ZTF25acaypgx,SN Ia,0.07,2025abzy,348.1433124,36.41332495,SN Ia,https://ztf.fink-portal.org/ZTF25acaypgx
+ZTF24abifmph,SN Ia,0.11,2024vwh,105.0407976,33.166354,SN Ia,https://ztf.fink-portal.org/ZTF24abifmph
+ZTF24aaimwud,SN Ia,0.115,2024lni,190.4526049,63.01838812,SN Ia,https://ztf.fink-portal.org/ZTF24aaimwud
+ZTF23abvbwys,SN Ia-91T-like,0.049,2023aajn,55.39106185,-2.78057119,SN Ia*,https://ztf.fink-portal.org/ZTF23abvbwys
+ZTF25abqkwce,SN Ia-SC,0.04,2025xju,358.8111619,39.76371592,SN Ia*,https://ztf.fink-portal.org/ZTF25abqkwce
+ZTF24aagnlaw,SN Ia-SC,0.13,2024dvi,160.0097931,61.84385537,SN Ia*,https://ztf.fink-portal.org/ZTF24aagnlaw
+ZTF25acgdfwz,SN Ib/c,0.018,2025agik,23.67907885,36.96421261,SN Ibc*,https://ztf.fink-portal.org/ZTF25acgdfwz
+ZTF24aadosgv,,,,95.42054275,4.764511675,,https://ztf.fink-portal.org/ZTF24aadosgv
+ZTF24aboxrnx,,,,33.86880028,57.87958485,,https://ztf.fink-portal.org/ZTF24aboxrnx
+ZTF24aaxjkov,,,2024qpq,91.00342388,46.76394303,,https://ztf.fink-portal.org/ZTF24aaxjkov
+ZTF24abwmhtc,,,2024adpn,351.7398799,39.82656742,,https://ztf.fink-portal.org/ZTF24abwmhtc
+ZTF24aahjkim,,,2024elq,160.6639881,9.106197425,,https://ztf.fink-portal.org/ZTF24aahjkim
+ZTF24abprqav,,,2024aagc,7.70752424,38.66855184,,https://ztf.fink-portal.org/ZTF24abprqav
+ZTF24abzkrvr,,,2024aepr,165.0315236,15.749096,,https://ztf.fink-portal.org/ZTF24abzkrvr
+ZTF25abwoggs,,,2025aaen,332.6621976,16.2395582,,https://ztf.fink-portal.org/ZTF25abwoggs
+ZTF25abtjmbl,,,2025ykn,95.08365496,-17.58458745,,https://ztf.fink-portal.org/ZTF25abtjmbl
+ZTF25abxvcqw,,,2025abgg,25.74448684,51.23373635,,https://ztf.fink-portal.org/ZTF25abxvcqw
+ZTF24ablgtah,,,2024xox,318.9020157,22.74530708,,https://ztf.fink-portal.org/ZTF24ablgtah
+ZTF24abalacb,,,2024sba,36.42853623,22.17317547,,https://ztf.fink-portal.org/ZTF24abalacb
+ZTF24aahfwfd,,,2024eob,55.96478422,15.67349278,,https://ztf.fink-portal.org/ZTF24aahfwfd
+ZTF24abwqeyd,,,2024adpp,91.13450163,0.624067675,,https://ztf.fink-portal.org/ZTF24abwqeyd
+ZTF24aawjvjv,,,2024puz,262.8359789,53.40415264,,https://ztf.fink-portal.org/ZTF24aawjvjv
+ZTF25abdcpcx,,,2025sah,91.12295844,43.73096959,,https://ztf.fink-portal.org/ZTF25abdcpcx
+ZTF25aankcwt,,,2025ird,209.1050849,23.7238183,,https://ztf.fink-portal.org/ZTF25aankcwt
+ZTF25abikmzx,,,2025usi,47.71566258,29.11520346,,https://ztf.fink-portal.org/ZTF25abikmzx
+ZTF25aaqzjoy,,,2025kyx,284.6066612,84.73357631,,https://ztf.fink-portal.org/ZTF25aaqzjoy
+ZTF25aajlhto,,,2025fou,83.95679632,56.96278515,,https://ztf.fink-portal.org/ZTF25aajlhto
+ZTF25aatslhl,,,2025new,254.8394003,81.95473346,,https://ztf.fink-portal.org/ZTF25aatslhl
+ZTF25aaheqzd,,,2025cro,231.7193476,-17.63790372,,https://ztf.fink-portal.org/ZTF25aaheqzd
+ZTF24aaaejlv,,,2024lm,43.68299401,44.14042209,,https://ztf.fink-portal.org/ZTF24aaaejlv
+ZTF23abawwbg,,,2023sfw,127.5323446,19.9362841,,https://ztf.fink-portal.org/ZTF23abawwbg
+ZTF24abitpxy,,,2024wdn,123.8389142,58.87986247,,https://ztf.fink-portal.org/ZTF24abitpxy
+ZTF24aaeggrz,,,2024ccs,48.04727478,23.95160765,,https://ztf.fink-portal.org/ZTF24aaeggrz
+ZTF24aagilmu,,,2024diw,113.2159785,38.99872666,,https://ztf.fink-portal.org/ZTF24aagilmu
+ZTF25aborakj,,,2025xcc,343.2210393,80.48451842,,https://ztf.fink-portal.org/ZTF25aborakj
+ZTF23abhwnlz,,,2023ufz,355.6298321,-24.69246201,,https://ztf.fink-portal.org/ZTF23abhwnlz
+ZTF23abffdsc,,,2023tnk,256.9929424,60.63926178,,https://ztf.fink-portal.org/ZTF23abffdsc
+ZTF23abcitsv,,,2023skk,20.99901518,21.68553253,,https://ztf.fink-portal.org/ZTF23abcitsv
+ZTF23aboeruc,,,2023xex,353.1848852,44.42648422,,https://ztf.fink-portal.org/ZTF23aboeruc
+ZTF25aatrxku,,,,332.9571057,-2.21414915,,https://ztf.fink-portal.org/ZTF25aatrxku
+ZTF24abckosj,,,,52.81666828,49.88397463,,https://ztf.fink-portal.org/ZTF24abckosj
+ZTF24aathdii,,,,55.11986878,37.88784002,,https://ztf.fink-portal.org/ZTF24aathdii
+ZTF25aciywrk,,,,84.64739763,54.4916764,,https://ztf.fink-portal.org/ZTF25aciywrk
+ZTF23abrralq,,,,297.0745907,48.55227465,,https://ztf.fink-portal.org/ZTF23abrralq
+ZTF25aakowne,,,,327.1831012,7.8098252,,https://ztf.fink-portal.org/ZTF25aakowne
+ZTF25abbmzes,,,,308.7295809,-9.422745733,,https://ztf.fink-portal.org/ZTF25abbmzes
+ZTF25aalmtxa,,,,337.5790388,29.151831,,https://ztf.fink-portal.org/ZTF25aalmtxa
+ZTF25aaztrqi,,,,310.7044105,61.03144033,,https://ztf.fink-portal.org/ZTF25aaztrqi
+ZTF25aalmizq,,,,259.0339954,18.6534472,,https://ztf.fink-portal.org/ZTF25aalmizq
+ZTF25aazwgub,,,,52.0838564,24.99690398,,https://ztf.fink-portal.org/ZTF25aazwgub
+ZTF25aatrxkn,,,,333.1171028,-2.4538236,,https://ztf.fink-portal.org/ZTF25aatrxkn
+ZTF23aazsirz,,,,69.39776748,79.04522442,,https://ztf.fink-portal.org/ZTF23aazsirz
+ZTF25aancolq,,,,269.5356633,11.60356493,,https://ztf.fink-portal.org/ZTF25aancolq
+ZTF25abuovaz,,,,117.3804747,-0.005708033333,,https://ztf.fink-portal.org/ZTF25abuovaz
+ZTF25aaktzja,,,,203.6599094,-24.3644743,,https://ztf.fink-portal.org/ZTF25aaktzja
+ZTF24abqtafy,,,,312.1148942,-26.87561282,,https://ztf.fink-portal.org/ZTF24abqtafy
